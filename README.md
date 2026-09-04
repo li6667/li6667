@@ -15,7 +15,10 @@
 ### Languages and tools
 
 <p><img src="https://skillicons.dev/icons?i=java,python,go,js,ts,spring,mysql,redis,docker,git,linux" alt="Languages and tools" /></p>
-
+<p>
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=li6667&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=li6667&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+</p>
 ### GitHub activity
 
 <p><img height="165" src="https://github-readme-stats.vercel.app/api?username=li6667&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=li6667&layout=compact&hide_border=true&theme=transparent" alt="Top languages" /></p>
