@@ -12,9 +12,6 @@
 - 📫 How to reach me: **2976909322@qq.com**
 - 🎓 I’m currently a **graduate student**
 
-
-### Contribution snake 🐍
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/li6667/li6667/gh-pages/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/li6667/li6667/gh-pages/github-contribution-grid-snake.svg" />
