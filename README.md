@@ -1,7 +1,6 @@
 # Hi 👋, I'm Shun Li
 
-### A graduate student focused on backend engineering and agent development.
-
+### Backend & Agent Developer | Computer Vision Graduate Researcher
 <p>
   <img src="https://komarev.com/ghpvc/?username=li6667&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
