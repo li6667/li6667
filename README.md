@@ -21,4 +21,4 @@
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/li6667/li6667/gh-pages/github-contribution-grid-snake.svg" />
 </picture>
 
-> Building in public, one commit at a time.
+
